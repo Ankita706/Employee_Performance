@@ -29,9 +29,7 @@ EDA was conducted to understand **feature distributions, correlations, and outli
 
 ## 🚀 Model Training & Evaluation  
 The following models were tested:  
-- **Linear Regression** (Baseline)  
-- **Random Forest Regressor** (Best Performing Model)  
-- **Decision Tree Regressor**  
+**Logistic regression | K-Nearest Neighbors (KKN) | Support Vector Machine (SVM)**
 
 📈 **Best Model Performance:**  
 | Metric | Value |
